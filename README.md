@@ -18,15 +18,7 @@ A powerful, user-friendly web application for sentiment analysis using Hugging F
 
 ## 🚀 Live Demo
 
-Try the live application: [Live Demo Link](#)
-
-## 📸 Screenshots
-
-| Main Interface | Results Dashboard | File Upload |
-|----------------|------------------|-------------|
-| ![Main Interface](assets/images/main-interface.png) | ![Results Dashboard](assets/images/results-dashboard.png) | ![File Upload](assets/images/file-upload.png) |
-
-## 🛠️ Installation
+Try the live application: [https://sentiment-analysis-app-rup6yguq7e2wr5ngebpsp2.streamlit.app/]
 
 ### Prerequisites
 - Python 3.8 or higher
